@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\USER\\Desktop\\study\\example\\Kotlin AAC MVVM Koin\\MVVMArchitecture-master\\mvvm\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_bookmark.xml",
+        "source": "C:\\Users\\USER\\Desktop\\study\\example\\Kotlin AAC MVVM Koin\\MVVMArchitecture-master\\mvvm\\app\\src\\main\\res\\layout\\activity_bookmark.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Desktop\\study\\example\\Kotlin AAC MVVM Koin\\MVVMArchitecture-master\\mvvm\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_search.xml",
+        "source": "C:\\Users\\USER\\Desktop\\study\\example\\Kotlin AAC MVVM Koin\\MVVMArchitecture-master\\mvvm\\app\\src\\main\\res\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Desktop\\study\\example\\Kotlin AAC MVVM Koin\\MVVMArchitecture-master\\mvvm\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_bookmark.xml",
+        "source": "C:\\Users\\USER\\Desktop\\study\\example\\Kotlin AAC MVVM Koin\\MVVMArchitecture-master\\mvvm\\app\\src\\main\\res\\layout\\item_bookmark.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Desktop\\study\\example\\Kotlin AAC MVVM Koin\\MVVMArchitecture-master\\mvvm\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_repository.xml",
+        "source": "C:\\Users\\USER\\Desktop\\study\\example\\Kotlin AAC MVVM Koin\\MVVMArchitecture-master\\mvvm\\app\\src\\main\\res\\layout\\item_repository.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Desktop\\study\\example\\Kotlin AAC MVVM Koin\\MVVMArchitecture-master\\mvvm\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\main_fragment.xml",
+        "source": "C:\\Users\\USER\\Desktop\\study\\example\\Kotlin AAC MVVM Koin\\MVVMArchitecture-master\\mvvm\\app\\src\\main\\res\\layout\\main_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\USER\\Desktop\\study\\example\\Kotlin AAC MVVM Koin\\MVVMArchitecture-master\\mvvm\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\main_activity.xml",
+        "source": "C:\\Users\\USER\\Desktop\\study\\example\\Kotlin AAC MVVM Koin\\MVVMArchitecture-master\\mvvm\\app\\src\\main\\res\\layout\\main_activity.xml"
+    }
+]
