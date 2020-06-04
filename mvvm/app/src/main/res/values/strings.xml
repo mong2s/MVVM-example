@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">mvvm_ACC_Koin_sample</string>
+    <string name="menu_bookmark">Bookmark</string>
+</resources>
